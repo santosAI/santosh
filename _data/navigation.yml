@@ -1,20 +1,23 @@
 # main links links
 main:
+  - title: "Experience"
+    url: /experience/
+
   - title: "Publications"
     url: /publications/
 
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Initiatives"
+    url: /initiatives/    
         
   - title: "Blog Posts"
     url: /year-archive/
+
+  - title: "Awards"
+    url: /awards.html
     
   - title: "CV"
-    url: /cv/
-
+    url: /files/Santosh_Shet.pdf
+    
